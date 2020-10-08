@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="06b61078-952b-425f-9ea5-a8d8e78a6721" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aktivasyon.php" beforeDir="false" afterPath="$PROJECT_DIR$/aktivasyon.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeniuyeol.php" beforeDir="false" afterPath="$PROJECT_DIR$/yeniuyeol.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeniuyeolsonuc.php" beforeDir="false" afterPath="$PROJECT_DIR$/yeniuyeolsonuc.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/emozay/e-ticaret.git" />
+      </set>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.4" />
+  <component name="ProjectId" id="1XljkC2mHOrHVpyVJwqmWTd5dVz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../egem/AnketSitesi" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="06b61078-952b-425f-9ea5-a8d8e78a6721" name="Default Changelist" comment="" />
+      <created>1581627716338</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581627716338</updated>
+      <workItem from="1581627719295" duration="6479000" />
+      <workItem from="1581672330038" duration="9141000" />
+      <workItem from="1581703686318" duration="7920000" />
+      <workItem from="1581762368234" duration="21611000" />
+      <workItem from="1581806951354" duration="821000" />
+      <workItem from="1582211722274" duration="8758000" />
+      <workItem from="1582319432347" duration="3238000" />
+      <workItem from="1582371274100" duration="7651000" />
+      <workItem from="1582542293785" duration="612000" />
+      <workItem from="1582717269374" duration="677000" />
+      <workItem from="1582835313335" duration="2988000" />
+      <workItem from="1583138460473" duration="5847000" />
+      <workItem from="1583160533410" duration="7475000" />
+      <workItem from="1583184908288" duration="1639000" />
+      <workItem from="1583312712227" duration="2219000" />
+      <workItem from="1583403628327" duration="9250000" />
+      <workItem from="1583758184209" duration="17218000" />
+      <workItem from="1583872237793" duration="7156000" />
+      <workItem from="1583915952309" duration="15016000" />
+      <workItem from="1584020102455" duration="12929000" />
+      <workItem from="1584095144027" duration="15696000" />
+      <workItem from="1584485398584" duration="3356000" />
+      <workItem from="1591837930301" duration="6719000" />
+      <workItem from="1591945401173" duration="2693000" />
+      <workItem from="1592008692262" duration="4922000" />
+      <workItem from="1592225280687" duration="2439000" />
+      <workItem from="1592491412423" duration="5416000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1592259596584">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.1080.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1592259596584" />
+    <state x="794" y="444" key="NewPhpFileDialog" timestamp="1583786879788">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="794" y="444" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1583786879788" />
+    <state x="556" y="1492" key="com.intellij.ide.util.TipDialog" timestamp="1592225281141">
+      <screen x="0" y="1080" width="1920" height="1040" />
+    </state>
+    <state x="556" y="412" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1592008692163" />
+    <state x="556" y="412" key="com.intellij.ide.util.TipDialog/0.1080.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1591837930543" />
+    <state x="556" y="1492" key="com.intellij.ide.util.TipDialog/0.1080.1920.1040/0.0.1920.1040@0.1080.1920.1040" timestamp="1592225281141" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://D:/e ticaret proje videoları/41. Basic E-Ticaret Projesi/496(proje dosyaları)/[Proje Dosyaları]/Ayarlar/ayar.php</url>
+          <line>62</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/hesabimyorumyap.php</url>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
